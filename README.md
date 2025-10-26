@@ -1,6 +1,7 @@
 # Splunk-SSH-Logs-Dashboard
 This project visualizes SSH login activity using **Splunk**.
 It helps detect failed login attempts, successful logins, and possible brute-force attacks displacing on an interactive dashboard.
+
 ----
 ## overview 
 The dashboard analyzes SSH logs and provides:
@@ -8,8 +9,15 @@ The dashboard analyzes SSH logs and provides:
 - A **world map** of attacker IP locations
 - A **bar chart** of topn source IPs
 - Real-time **KPIs** showing login statistics
-
+----
 ## Dashboard Preview 
-![Dashboard Screenshort] (dashboard/screenshot/dashboard_preview.png)
+![Dashboard Screenshort] (dashboard_preview.png)
 
+----
 ## Features
+- **GeoIP Map** showing failed login origins
+- **Top IP Addresses** causing failed logins
+- **KPIs** for total, failed, and successful logins
+- **Time-based trend chart** for SSH activity
+
+---- 
