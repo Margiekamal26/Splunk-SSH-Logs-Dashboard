@@ -11,7 +11,7 @@ The dashboard analyzes SSH logs and provides:
 - Real-time **KPIs** showing login statistics
 ----
 ## Dashboard Preview 
-![Dashboard Screenshort] (dashboard_preview.png)
+![Dashboard Screenshort] (/dashboard_preview.png)
 
 ----
 ## Features
