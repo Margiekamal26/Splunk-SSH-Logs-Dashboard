@@ -1,6 +1,6 @@
 # Splunk-SSH-Logs-Dashboard
 This project visualizes SSH login activity using **Splunk**.
-It helps detect failed login attempts, successful logins, and possible brute-force attacks diplacing on an interactive dashboard.
+It helps detect failed login attempts, successful logins, and possible brute-force attacks displacing on an interactive dashboard.
 ----
 ## overview 
 The dashboard analyzes SSH logs and provides:
