@@ -10,10 +10,6 @@ The dashboard analyzes SSH logs and provides:
 - A **bar chart** of topn source IPs
 - Real-time **KPIs** showing login statistics
 ----
-## Dashboard Preview 
-![Dashboard Screenshort] (/dashboard_preview.png)
-
-----
 ## Features
 - **GeoIP Map** showing failed login origins
 - **Top IP Addresses** causing failed logins
