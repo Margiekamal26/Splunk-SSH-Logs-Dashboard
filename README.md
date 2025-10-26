@@ -8,3 +8,7 @@ The dashboard analyzes SSH logs and provides:
 - A **world map** of attacker IP locations
 - A **bar chart** of topn source IPs
 - Real-time **KPIs** showing login statistics
+
+## Dashboard Preview 
+![Dashboard Screenshort] (das)
+## Features
